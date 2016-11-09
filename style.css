@@ -1,0 +1,141 @@
+div
+{
+margin-top: 5%;
+margin-left: 30%;
+margin-right:30%;
+}
+
+img
+{
+border: 10px solid;
+border-color: white;
+border-radius: 8px;
+}
+
+legend
+{
+color: white;
+background-color: grey;
+border: 5px solid grey;
+border-radius: 30px;
+
+}
+
+fieldset{
+margin-top: 50px;
+margin-left: 5%;
+margin-right: 5%;
+background-color: white;
+border: 3px solid grey;
+border-radius: 5px;
+}
+
+
+
+form
+{
+margin-left: 40%;
+margin-right:40%;
+}
+
+.form2
+{
+margin-left: 35%;
+margin-right:40%;
+}
+
+.form3
+{
+margin-left: 5%;
+margin-right:5%;
+}
+
+body
+{
+	background-color: lightblue;
+	margin-bottom: 20%;
+}
+
+.radio
+{
+margin-left:50%;
+}
+.input
+{
+	width: 300px;
+	height: 20px;
+}
+
+.input2
+{
+
+	width: 500px;
+	height: 20px;
+}
+
+.button
+{
+	background: -moz-linear-gradient(top, #759f3b 0%, #9fd92b 50%, #91ca20 51%, #c8e87e 100%);
+	margin-left: 35%;
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+.button2
+{
+	background: -moz-linear-gradient(top, #759f3b 0%, #9fd92b 50%, #91ca20 51%, #c8e87e 100%);
+	margin-left: 60%;
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+.refuser
+{
+	background: -moz-linear-gradient(top, #ab220d 0%, #ef1e13 50%, #dd1b0d 51%, #f57571 100%);
+	margin-left: 35%;
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+
+.area
+{
+	width: 500px;
+	height: 150px;
+}
+
+.buttonstage
+{
+	background: -moz-linear-gradient(top, #b37c05 0%, #f99909 50%, #e58f05 51%, #fbbf6b 100%);
+	margin-left: 25%;
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+.buttonprop1
+{
+	background: -moz-linear-gradient(top, #759f3b 0%, #9fd92b 50%, #91ca20 51%, #c8e87e 100%);
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+.buttonprop2
+{
+	background: -moz-linear-gradient(top, #ab220d 0%, #ef1e13 50%, #dd1b0d 51%, #f57571 100%);
+	border-radius: 10px;
+	width: 150px;
+	height: 50px;
+}
+p
+{
+ width: 1085px;
+    height: 200px;
+    overflow: auto;
+
+   }
+
